@@ -21,7 +21,7 @@ The user interface and user experience were designed and prototyped using **Figm
 * **Database:** **PostgreSQL**
 * **Frontend (Web):** **React**
 * **Frontend (Mobile):** **React Native**
-* **Cloud Storage:** [**AWS S3 / Google Cloud Storage**] for image hosting
+* **Cloud Storage:** [**AWS S3**] for image hosting
 
 ## 💻 Getting Started
 These instructions will help you set up the project locally for development and testing.
